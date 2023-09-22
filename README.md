@@ -5,3 +5,5 @@
 
 ### Deskripsi :
 ##### Ikhtisar Kumpulan Data: Kumpulan Data Kesehatan Tidur dan Gaya Hidup terdiri dari 400 baris dan 13 kolom, yang mencakup berbagai variabel terkait tidur dan kebiasaan sehari-hari. Ini mencakup rincian seperti jenis kelamin, usia, pekerjaan, durasi tidur, kualitas tidur, tingkat aktivitas fisik, tingkat stres, kategori BMI, tekanan darah, detak jantung, langkah harian, dan ada tidaknya gangguan tidur
+
+https://github.com/dewo1357/Sleep_Healty/blob/main/Sleep_health_and_lifestyle_dataset.csv
